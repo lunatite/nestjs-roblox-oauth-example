@@ -1,0 +1,9 @@
+dist
+node_modules
+test
+.dockerignore
+.env
+.gitignore
+.prettiercc
+eslint.config.mjs
+README.md 
